@@ -23,19 +23,19 @@
 
 ## 📊 GitHub Stats
 
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshibode44\&show_icons=true\&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=sakshibode44\&theme=radical)
 
 ---
 
 ## 📈 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshibode44\&layout=compact\&theme=radical)
 
 ---
 
@@ -47,3 +47,19 @@
 ---
 
 ⭐️ 
+# 📊 My GitHub Dashboard
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshibode44&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em"/>
+</p>
+
+## 🌐 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshibode44&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em"/>
+</p>
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sakshibode44&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
