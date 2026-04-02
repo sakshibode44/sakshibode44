@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Sakshi Bode
 
-<!--
-**sakshibode44/sakshibode44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Aspiring Developer | 🚀 Tech Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+* 🔭 Currently working on: Machine Learning Models & Web Development
+* 🌱 Learning: Python, JavaScript, Data Structures
+* 💡 Interested in: AI, Web Development, and Innovation, Data Analyst
+* 🎯 Goal: To become a Data Scientist
+
+---
+
+## 🛠️ Skills
+
+* Programming: Python, C
+* Web: HTML, CSS
+* Tools: Git, GitHub, VS Code
+
+---
+
+## 📊 GitHub Stats
+
+![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=radical)
+
+---
+
+## 📈 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+* LinkedIn: 
+* Email: [sakshibode44@gmail.com]
+
+---
+
+⭐️ 
