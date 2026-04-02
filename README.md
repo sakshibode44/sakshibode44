@@ -21,11 +21,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshibode44\&show_icons=true\&theme=radical)
-
----
 
 ## 🔥 GitHub Streak
 
@@ -33,38 +29,14 @@
 
 ---
 
-## 📈 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshibode44\&layout=compact\&theme=radical)
-
----
 
 ## 📫 Connect with Me
 
-* LinkedIn: 
+* LinkedIn:[www.linkedin.com/in/sakshi-bode-b182433a2]
 * Email: [sakshibode44@gmail.com]
 
 ---
 
-⭐️ 
-## 🌐 Top Languages
+⭐️“Debugging life, one repo at a time.” 
 
-
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshibode44
-    &layout=compact
-    &theme=tokyonight
-    &hide_border=true
-    &langs_count=8
-    &custom_title=Most%20Used%20Languages" 
-    height="180em"/>
-</p>
-    &layout=compact
-    &theme=tokyonight
-    &hide_border=true
-    &langs_count=8
-    &custom_title=Most%20Used%20Languages" 
-    height="180em"/>
-</p>
+    
